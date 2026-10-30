@@ -6,3 +6,4 @@ Welcome to our technical club's resource hub! Here are our current study materia
 - [A useful collection of AI tools](https://github.com/GetStream/ai-agent-tools-catalog)
 - [A collection of free APIs useful for test practices](https://dev.to/0012303/every-free-public-api-i-found-that-actually-works-2026-edition-2350)
 - [JDoodle Online Compiler & IDE](https://www.jdoodle.com/) — Quick multi-language code runner
+- [CodinGame](https://www.codingame.com/) — Interactive coding platform to practice programming through games and challenges
